@@ -13,4 +13,4 @@ and other resource based on prioritization.
 Boston fire department website https://data.boston.gov/dataset/fire-incidentreporting
 
 The Logistic regression model employed to classify the new dataset has
-an accuracy of 0.775 as shown below
+an accuracy of 0.775
