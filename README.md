@@ -10,7 +10,6 @@ losses, area zip code and neighborhood. Applying these variables to the data
 mining concept we can strive towards reduction in response time, property loss
 and other resource based on prioritization.
 
-Boston fire department website https://data.boston.gov/dataset/fire-incidentreporting
-
+Boston fire department website https://data.boston.gov/dataset/fire-incident-reporting
 The Logistic regression model employed to classify the new dataset has
 an accuracy of 0.775
