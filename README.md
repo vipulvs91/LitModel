@@ -1,4 +1,7 @@
 # LitModel
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FGbwWqJmG5LuYD4cY6GXJf0PYu3JJ8o-?usp=sharing)
+
 Fire Incident risk classification Data Mining project
 
 
@@ -14,3 +17,4 @@ Boston fire department website https://data.boston.gov/dataset/fire-incident-rep
 
 The Logistic regression model employed to classify the new dataset has
 an accuracy of 0.775
+
